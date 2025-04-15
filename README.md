@@ -8,6 +8,8 @@
 
 ### Тест-кейсы
 https://docs.google.com/spreadsheets/d/1ajKtdJGROfZciGbonN-90eeCYF3jIGB3yJz3NWkyrNA/edit?gid=0#gid=0
+### Баг-репорт 
+https://docs.google.com/spreadsheets/d/1IKuocSIAvzWO4F4OfSCg_rYj8wp3zVPDSNpCDjZqtLw/edit?usp=sharing
 
 ## Возможности
 - Автоматизированные тесты для авторизации Ростелекома.
