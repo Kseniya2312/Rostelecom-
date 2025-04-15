@@ -1,9 +1,9 @@
 valid_phone = 'valid phone number'
-valid_login = 'rtkid_1741463395910'
-valid_email = 'salyresaly@gmail.com'
+valid_login = 'rt_48078311'
+valid_email = 'kseniya2312@gmail.com'
 valid_ls = 'valid account number'
-valid_password = '123---321Password'
+valid_password = '89992175077Zx'
 
-user_name = 'Ресалтваниюсн Саливан'
+user_name = 'Точёнова Ксения Геннадьевна'
 
-unregisered_email = 'MSLa@mail.ru'   
+unregisered_email = 'Super.yulia888@mail.ru'   
